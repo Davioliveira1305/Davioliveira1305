@@ -1,4 +1,4 @@
-	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <!--
 **Davioliveira1305/Davioliveira1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
